@@ -6,13 +6,13 @@ export default function ProjectCard({ project }) {
 
       {/* IMAGE */}
       {project.image ? (
-        <div className="overflow-hidden">
-          <img
-            src={project.image}
-            alt={project.title}
-            className="w-full h-60 object-cover group-hover:scale-105 transition-transform duration-500"
-          />
-        </div>
+        <div className="bg-gray-100 flex items-center justify-center h-72">
+  <img
+    src={project.image}
+    alt={project.title}
+    className="max-w-full max-h-full object-contain"
+  />
+</div>
       ) : (
         <div className="w-full h-60 bg-gradient-to-br from-blue-100 via-slate-100 to-cyan-100 dark:from-slate-800 dark:via-slate-900 dark:to-slate-800 flex flex-col items-center justify-center">
           <div className="text-6xl">📊</div>

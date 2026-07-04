@@ -60,27 +60,27 @@ export const projects = [
   {
     id: 3,
 
-    title: "HR Analytics Dashboard",
+    title: "Deloitte Australia - Data Analytics Job Simulation",
 
     description:
-      "Designed a Power BI dashboard to analyze employee attrition, satisfaction levels, and workforce distribution across departments.",
+      "Interactive Tableau dashboard analyzing machine downtime using telemetry data.",
 
     technologies: [
-      "Power BI",
+      "Tableau",
       "SQL",
       "Excel",
     ],
 
     highlights: [
-      "Analyzed employee attrition patterns",
-      "Built HR KPI dashboards",
-      "Studied workforce distribution",
-      "Identified retention risk factors",
+      "Analyzed machine downtime patterns",
+      "Built KPI dashboards",
+      "Studied operational efficiency",
+      "Identified maintenance risk factors",
     ],
 
-    image: "",
+    image: `${import.meta.env.BASE_URL}dashboards/daikibo_dashboard.png`,
 
-    github: "https://github.com/yourusername/hr-analytics",
+    github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
 
     demo: "#",
   },
