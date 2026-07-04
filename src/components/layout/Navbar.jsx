@@ -58,7 +58,7 @@ export default function Navbar() {
           ))}
           {/* Resume Button */}
   <a
-    href={`${import.meta.env.BASE_URL}myresume.pdf`}
+    href={`${import.meta.env.BASE_URL}sahithi palacharla_Data Analyst.pdf`}
     download
     className="ml-2 px-5 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium shadow-md hover:shadow-lg transition-all duration-300"
   >
