@@ -78,14 +78,13 @@ export const projects = [
       "Identified maintenance risk factors",
     ],
 
-    // image: `${import.meta.env.BASE_URL}dashboards/daikibo_dashboard.png`,
+    image: `${import.meta.env.BASE_URL}dashboards/daikibo_dashboard.png`,
 
     // github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
 
     // demo: "#",
-    image: "public/dashboards/daikibo-dashboard.png",
-
-  github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
+    // image: "public/dashboards/daikibo-dashboard.png",
+    github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
 
   // liveDemo: "https://public.tableau.com/views/YOUR_DAIKIBO_DASHBOARD/Dashboard1"
   },
