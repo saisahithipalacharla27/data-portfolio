@@ -83,7 +83,7 @@ export const projects = [
     // github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
 
     // demo: "#",
-    image: "/projects/daikibo-dashboard.png",
+    image: "public/dashboards/daikibo-dashboard.png",
 
   github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
 
