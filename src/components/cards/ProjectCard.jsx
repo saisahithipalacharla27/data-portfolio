@@ -77,7 +77,7 @@ export default function ProjectCard({ project }) {
             GitHub
           </a>
 
-          <a
+           {/* <a
             href={project.demo}
             target="_blank"
             rel="noreferrer"
@@ -85,7 +85,7 @@ export default function ProjectCard({ project }) {
           >
             <FaExternalLinkAlt />
             Live Demo
-          </a>
+          </a>  */}
 
         </div>
 

@@ -26,7 +26,7 @@ export const projects = [
 
     github: "https://github.com/yourusername/credit-card-analysis",
 
-    demo: "#",
+    // demo: "#",
   },
 
   {
@@ -54,7 +54,7 @@ export const projects = [
 
     github: "https://github.com/yourusername/sales-dashboard",
 
-    demo: "#",
+    // demo: "#",
   },
 
   {
@@ -78,10 +78,15 @@ export const projects = [
       "Identified maintenance risk factors",
     ],
 
-    image: `${import.meta.env.BASE_URL}dashboards/daikibo_dashboard.png`,
+    // image: `${import.meta.env.BASE_URL}dashboards/daikibo_dashboard.png`,
 
-    github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
+    // github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
 
-    demo: "#",
+    // demo: "#",
+    image: "/projects/daikibo-dashboard.png",
+
+  github: "https://github.com/saisahithipalacharla27/daikibo-telemetry-analysis",
+
+  // liveDemo: "https://public.tableau.com/views/YOUR_DAIKIBO_DASHBOARD/Dashboard1"
   },
 ];
