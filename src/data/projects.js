@@ -22,7 +22,7 @@ export const projects = [
       "Generated business insights for decision-making",
     ],
 
-    image: "",
+    image: `${import.meta.env.BASE_URL}dashboards/credit_card_analysis.png`,
 
     github: "https://github.com/yourusername/credit-card-analysis",
 
