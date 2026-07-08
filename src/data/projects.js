@@ -22,9 +22,9 @@ export const projects = [
       "Generated business insights for decision-making",
     ],
 
-    image: `${import.meta.env.BASE_URL}dashboards/credit_card_analysis.png`,
+    image: `${import.meta.env.BASE_URL}dashboards/creditcarddashboard.png`,
 
-    github: "https://github.com/yourusername/credit-card-analysis",
+    github: "https://github.com/saisahithipalacharla27/Credit-Card-Spending-Behavior-Analysis",
 
     // demo: "#",
   },
